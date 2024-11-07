@@ -267,7 +267,7 @@ no.addEventListener('click', noAnswerMethod)
 yes.addEventListener('click', yesAnswerMethod)
 
 document.getElementById("fix").addEventListener("click", function(){
-    window.location= "https://wa.me/+6282213267532?text=Chalo date pr chalein !!!!! ";
+    window.location= "https://wa.me/+6282213267532?text=Ayo Jalan!!!!!! ";
 }, false);
     </script>
     
